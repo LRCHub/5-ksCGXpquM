@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Sou「バブル」MV 【#VocaDuo2023】",
+  "base_artist": "Sou",
+  "createdAt": "2026-02-12T12:23:38.133731Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Southern Climbs",
+      "artist": "South",
+      "has_synced": false,
+      "path": "select/pl_01_Southern_Climbs_South.txt"
+    }
+  ]
+}
